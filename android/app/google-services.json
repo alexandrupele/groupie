@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "85643094577",
+    "firebase_url": "https://summon-dd45c.firebaseio.com",
+    "project_id": "summon-dd45c",
+    "storage_bucket": "summon-dd45c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85643094577:android:ded17c7351cbf916",
+        "android_client_info": {
+          "package_name": "com.groupie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85643094577-jrqd0o2vvqvcr2dt2vssn3tpe4jf0915.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzjGDlLMHe8JxitfKUYsplZUjkRj3jKj4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
